@@ -1,9 +1,9 @@
 
-
+import Dhruv from "./dhruv.jsx"
 function App() {
   
   return (
-     <h1>basic vite app</h1>
+     <Dhruv/>
   )
 }
 
